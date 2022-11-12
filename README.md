@@ -4,12 +4,12 @@
 <ul>
 <li>WhatsApp: 937537126<li>
 <li><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">email: mandelajunior10@gmail.com</a><li>
-<li><a href="https://www.linkedin.com/in/toz%C3%A9-mandela-4a44b521b/"><i class="devicon-linkedin-plain colored"></i>: Tozé Mandela</a><li>
+<li><a href="https://www.linkedin.com/in/toz%C3%A9-mandela-4a44b521b/"><i class="devicon-linkedin-plain colored"></i></a><li>
 <li><a href="https://www.youtube.com/channel/UCLcq0i3AEvTCHxwyyD8fbIQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></li>
 </ul>
 
 Jovem estudante com uma paixão e tanto em <strong>programação</strong> que não me vejo e nem me imagino a ficar de fora do mundo das tecnologias por isso estudo arduamente dia pois dia afim de aumentar meus conhecimentos e me tornar um tanto e bom profissional na área. Já estudei o basico de varias linguagens de programação como:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 😊, html, css3, e etc. 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 😊, html, css3, e etc. 
 
 Amo desafios e estou sempre disposto a aprender e evoluir (meta: semi deus completo), visto que o programador é alguém que resolve problemas, digo eu que aprender dia pois dia é o requisito basico e primordial para si seguir firme este enorme e fantástico mundo das maravilhas. Actualmente fazendo curso online de Javascript Completo na udemy, rocketseet e não só.
 
