@@ -4,7 +4,7 @@
 <ul>
 <li>WhatsApp: 937537126</li>
 <li><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">email: mandelajunior10@gmail.com</a></li>
-<li><a href="https://www.linkedin.com/in/toz%C3%A9-mandela-4a44b521b/"><i class="devicon-linkedin-plain colored"></i></a></li>
+<li><a href="https://www.linkedin.com/in/toz%C3%A9-mandela-4a44b521b/"><i class="devicon-linkedin-plain colored"></i>LinkedIn </a></li>
 <li><a href="https://www.youtube.com/channel/UCLcq0i3AEvTCHxwyyD8fbIQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></li>
 </ul>
 
