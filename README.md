@@ -9,14 +9,14 @@
 </ul>
 
 <p>Jovem estudante com uma paixão e tanto em <strong>programação</strong> que não me vejo e nem me imagino a ficar de fora do mundo das tecnologias por isso estudo arduamente dia pois dia afim de aumentar meus conhecimentos e me tornar um tanto e bom profissional na área. Já estudei o basico de varias linguagens de programação como:</p>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30"/> | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30"/> |
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> 😊 |
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" /> | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30"/> |
-e etc. |
+<div styles="text-align: center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30"/>
+e etc.
 </div>
 
 Amo desafios e estou sempre disposto a aprender e evoluir (meta: semi deus completo), visto que o programador é alguém que resolve problemas, digo eu que aprender dia pois dia é o requisito basico e primordial para si seguir firme este enorme e fantástico mundo das maravilhas. Actualmente fazendo curso online de Javascript Completo na udemy, rocketseet e não só.
