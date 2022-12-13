@@ -10,7 +10,7 @@
 
 <p>Jovem estudante com uma paixão e tanto em <strong>programação</strong> que não me vejo e nem me imagino a ficar de fora do mundo das tecnologias por isso estudo arduamente dia pois dia afim de aumentar meus conhecimentos e me tornar um tanto e bom profissional na área. Já estudei o basico de varias linguagens de programação como:</p>
 
-<div style="text-align: center;">
+<div styles="text-align: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30"/>
