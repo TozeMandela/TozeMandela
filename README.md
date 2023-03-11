@@ -24,10 +24,20 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
 </div><br/>
-Amo desafios e estou sempre disposto a aprender e evoluir (meta: semi deus completo).<br/>
+
+## This World is fantastic <br/>
+
 <div style="width:100%">
  <img width="470" src="https://mentorama.com.br/blog/wp-content/uploads/2022/05/interna-blog-coding-05.jpg" alt="foto-code" />
 </div>
+<br/>
+
+## Algumas Frases que todo o programador deveria conhecer e aplicar no seu dia dia
+
+- 📫 Não é a linguagem de programação que define o programador, mas sim sua lógica. <small><em>David Ribeiro Guilherme</em></small>
+- 📫 A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles. <small><em>"Sérgio Arena</em></small>
+- 📫 Pois Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema. <small><em>Thales Valentim</em></small>
+- 📫 Então, Aproveite enquanto vive como programador no planeta, pois a tecnologia avança de uma forma gradativamente nos transformando em um ser burro. <small><em>Halyson Barros</em></small>
 <!--
 **TozeMandela/TozeMandela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
