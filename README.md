@@ -25,8 +25,9 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
 </div><br/>
 Amo desafios e estou sempre disposto a aprender e evoluir (meta: semi deus completo).<br/>
-<img style="width:100%; height: 30%" src="https://mentorama.com.br/blog/wp-content/uploads/2022/05/interna-blog-coding-05.jpg" alt="foto-code" />
-
+<div style="width:100%">
+ <img width="470" src="https://mentorama.com.br/blog/wp-content/uploads/2022/05/interna-blog-coding-05.jpg" alt="foto-code" />
+</div>
 <!--
 **TozeMandela/TozeMandela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
