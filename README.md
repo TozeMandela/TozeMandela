@@ -1,4 +1,4 @@
-### ### Olá 👋! eu sou o <strong> Tozé Mandela</strong> 😄, programador de nacionalidade Angolana✨<br/><br/>  
+### ### Olá 👋! eu sou o <strong> Tozé Mandela</strong> 😄, estudante de programação(TI) de nacionalidade Angolana✨<br/><br/>  
  
 [![Portifólio](	https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](link)
 [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toz%C3%A9-mandela-4a44b521b/)
